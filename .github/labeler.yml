@@ -13,6 +13,9 @@ eap-xp3:
 eap-xp4:
   - charts/eap-xp4/**/*
   - examples/eap-xp4/**/*
+eap8:
+  - charts/eap8/**/*
+  - examples/eap8/**/*
 documentation:
   - ./README.md
   - charts/**/README.md
